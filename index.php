@@ -9,6 +9,12 @@
 <body>
   <h1>Hello remote</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit officiis aperiam aut quae repellendus quis nulla consequatur, enim excepturi, numquam libero quasi, recusandae officia mollitia ipsa. Exercitationem eaque corporis soluta.</p>
+  <ul>
+    <li>
+      satu
+    </li>
+    <li>2</li>
+  </ul>
 </body>
 
 </html>
